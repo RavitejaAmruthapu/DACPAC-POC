@@ -1,0 +1,6 @@
+c:\users\teja\documents\visual studio 2015\Projects\DACPAC-POC\DACPAC-POC\bin\Debug\DACPAC-POC.dacpac
+c:\users\teja\documents\visual studio 2015\Projects\DACPAC-POC\DACPAC-POC\bin\Debug\DACPAC_POC.dll
+c:\users\teja\documents\visual studio 2015\Projects\DACPAC-POC\DACPAC-POC\bin\Debug\DACPAC_POC.pdb
+c:\users\teja\documents\visual studio 2015\Projects\DACPAC-POC\DACPAC-POC\bin\Debug\master.dacpac
+c:\users\teja\documents\visual studio 2015\Projects\DACPAC-POC\DACPAC-POC\obj\Debug\DACPAC_POC.dll
+c:\users\teja\documents\visual studio 2015\Projects\DACPAC-POC\DACPAC-POC\obj\Debug\DACPAC_POC.pdb
